@@ -1,4 +1,4 @@
-### Demo
+### Code Crew
 
 A project made with: 
 ReactJs - for frontend,
